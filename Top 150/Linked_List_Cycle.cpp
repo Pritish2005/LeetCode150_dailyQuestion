@@ -10,6 +10,7 @@
  */
 // class Solution {
 // public:
+// Floyd Detection Cycle
 //     bool hasCycle(ListNode *head) {
 //         ListNode* slow=head;
 //         ListNode* fast=head;
