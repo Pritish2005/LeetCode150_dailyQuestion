@@ -101,7 +101,7 @@ if(postion>=findLength(head)){
   prev->next=newNode;
 }
 
-void deletion(Node* &head,int postion){
+void deletion(Node* &head,int postion){ 
   Node* prev=head;
   // Start i from 1
   int i=1;
